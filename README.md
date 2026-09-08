@@ -1,6 +1,6 @@
 # Hey, It's Jawuan 👋
 
-Software Engineer 1 currently working with the Parts team 🛠️
+Software Engineer 1 currently ~~working with the Parts team 🛠️~~ transitioning teams due to Picard Wave
 
 #### Feel free to connect outside of work!
 
