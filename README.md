@@ -8,7 +8,9 @@ Software Engineer 1 currently ~~working with the Parts team 🛠️~~ transition
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=carrd&logoColor=white)](https://www.jawuanlewis.dev)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jawuanlewis)
 
+<!--
 #### Tools you might find useful (_shameless plug_)
 
 [![Simple Zsh Toolbox](https://img.shields.io/badge/Simple_Zsh_Toolbox-2E7D32?style=flat-square&logo=gnubash&logoColor=white)](https://github.com/jawuanlewis/zsh-toolbox)
 [![Glimpse Chrome Extension](https://img.shields.io/badge/Glimpse_Chrome_Ext-1565C0?style=flat-square&logo=googlechrome&logoColor=white)](https://github.com/jawuanlewis/glimpse-ext)
+-->
